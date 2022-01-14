@@ -7,7 +7,7 @@ from PIL import ImageFilter, Image
 
 # Variables
 # Opening existing image
-OriginalImg = Image.open()
+OriginalImg = Image.open(r"Box Blur Project/BoxBlurImage.jpg")
 OriginalImg.show()
 
 # Applying Blur filter
