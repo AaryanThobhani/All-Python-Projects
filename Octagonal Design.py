@@ -1,5 +1,7 @@
 # Program for Octagonal Design
 # Color: Black and White
+# By Aaryan Thobhani
+# GitHub:  https://github.com/AaryanThobhani
 
 # Importing Libs
 import turtle
