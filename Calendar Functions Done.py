@@ -1,8 +1,15 @@
+# Program for getting the year of birth
+# By Aaryan Thobhani
+# GitHub:  https://github.com/AaryanThobhani
+
+# Importing Libs
 import calendar
+
 
 print("All the weekheaders are printed out.")
 print(calendar.weekheader(3))
 print()
+
 
 print("The first weekday number is printed out.")
 print(calendar.firstweekday())
@@ -11,6 +18,7 @@ print()
 print("The whole month is printed out.")
 print(calendar.month(2020, 12))
 print()
+
 
 print("The month is printed out in matrix form.")
 print(calendar.monthcalendar(2020, 12))
@@ -36,3 +44,5 @@ for day in calendar.day_name:
 print("This prints out all the months of the year.")
 for month in calendar.month_name:
 	print(month)
+
+# End of Program
