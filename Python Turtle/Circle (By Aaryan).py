@@ -1,11 +1,18 @@
+# Program for getting the year of birth
+# By Aaryan Thobhani
+# GitHub:  https://github.com/AaryanThobhani
+
+# Importing Libs
 import turtle
 
 
-
+# Variables
 my_turtle = (turtle.Turtle())
 
+# Turtle Speed
 my_turtle.speed(10)
 
+# Circle Function
 def Circle():
     
     my_turtle.color("#FF0000")
